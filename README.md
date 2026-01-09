@@ -24,8 +24,6 @@ y mejorar cada día un poco más como desarrollador.
 
 ---
 
----
-
 ## 🌟 Filosofía
 Aprender, practicar, equivocarse y volver a intentar.  
 El progreso vale más que la perfección.
