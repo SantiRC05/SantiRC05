@@ -24,8 +24,10 @@ y mejorar cada día un poco más como desarrollador.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-## 🏆 Trofeos
-![Trophies](https://github-profile-trophy.vercel.app/?username=SantiRC05&no-frame=true)
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=SantiRC05)
+
 
 ---
 
