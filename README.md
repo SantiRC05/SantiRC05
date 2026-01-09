@@ -27,6 +27,7 @@ y mejorar cada día un poco más como desarrollador.
 ## 🏆 Trofeos
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SantiRC05&theme=flat&row=1)
+
 ---
 
 
