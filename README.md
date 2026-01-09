@@ -1,28 +1,37 @@
-# Santiago Rodríguez
+# Hola, soy Santi 👋
 
-Estudiante de desarrollo web en formación.  
-Actualmente aprendiendo **HTML** y **CSS**  
-Próximamente aprendiendo **Angular**.
+✨ Estudiante de desarrollo web  
+🌱 Aprendiendo paso a paso, pero con mucha motivación  
+💻 Actualmente trabajando con **HTML** y **CSS**  
+🚀 Próximo objetivo: **Angular**
 
----
-
-## Tecnologías
-- HTML
-- CSS
-- Git & GitHub
+Disfruto aprender cosas nuevas, crear interfaces visuales
+y mejorar cada día un poco más como desarrollador.
 
 ---
 
-## En aprendizaje
-- JavaScript
-- Angular
-- Desarrollo web moderno
+## 🧠 Lo que estoy aprendiendo
+- HTML  
+- CSS 
+- Git & GitHub   
 
 ---
 
-## GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SantiRC05&show_icons=true&hide_title=true&theme=default)
+## 🔜 En el camino
+- JavaScript  
+- Angular  
+- Buenas prácticas en desarrollo web  
 
 ---
 
-Perfil en constante evolución.
+## 📊 Un vistazo a mi GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SantiRC05&show_icons=true&theme=calm)
+
+---
+
+## 🌟 Filosofía
+Aprender, practicar, equivocarse y volver a intentar.  
+El progreso vale más que la perfección.
+
+Gracias 😊
+
