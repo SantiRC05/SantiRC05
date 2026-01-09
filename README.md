@@ -1,16 +1,28 @@
-## Hi there 👋
+# Santiago Rodríguez
 
-<!--
-**SantiRC05/SantiRC05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de desarrollo web en formación.  
+Actualmente aprendiendo **HTML** y **CSS**  
+Próximamente aprendiendo **Angular**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+- HTML
+- CSS
+- Git & GitHub
+
+---
+
+## En aprendizaje
+- JavaScript
+- Angular
+- Desarrollo web moderno
+
+---
+
+## GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SantiRC05&show_icons=true&hide_title=true&theme=default)
+
+---
+
+Perfil en constante evolución.
