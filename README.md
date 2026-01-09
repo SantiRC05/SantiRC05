@@ -35,8 +35,7 @@ y mejorar cada día un poco más como desarrollador.
 <br />
 <br />
 <p align="center">
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=MrBlueBird2&theme=onedark" alt="MrBlueBird2" />
-</p>
+
 
 ---
 
