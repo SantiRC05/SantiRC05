@@ -24,8 +24,8 @@ y mejorar cada día un poco más como desarrollador.
 
 ---
 
-## 📊 Un vistazo a mi GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SantiRC05&show_icons=true&theme=calm)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SantiRC05&show_icons=true)
+
 
 ---
 
