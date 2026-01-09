@@ -1,6 +1,6 @@
 # Hola, soy Santi 👋
 
-✨ Estudiante de desarrollo web  
+✨ Ingeniero en programación 
 🌱 Aprendiendo paso a paso, pero con mucha motivación  
 💻 Actualmente trabajando con **HTML** y **CSS**  
 🚀 Próximo objetivo: **Angular**
