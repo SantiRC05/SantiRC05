@@ -24,7 +24,7 @@ y mejorar cada día un poco más como desarrollador.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
+[![GitHub Streak](https://github-readme-streak-stats-olive-five.vercel.app?user=SantiRC05&theme=dark)](https://git.io/streak-stats)
 
 
 ---
