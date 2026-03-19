@@ -24,7 +24,7 @@ y mejorar cada día un poco más como desarrollador.
 
 ---
 ## 🔥 GitHub Streak
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SantiRC05&theme=highcontrast" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=SantiRC05&theme=highcontrast&hide_border=falso&short_numbers=falso&hide_longest_streak=true)](https://git.io/streak-stats)
 
 
 
