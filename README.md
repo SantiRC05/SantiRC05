@@ -11,9 +11,8 @@ y mejorar cada día un poco más como desarrollador.
 ---
 
 ## 🧠 Lo que estoy aprendiendo
-- HTML  
-- CSS 
-- Git & GitHub   
+-TypeScript
+-Angular
 
 ---
 ## 💻 Tech Stack
