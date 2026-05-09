@@ -34,7 +34,6 @@ y mejorar cada día un poco más como desarrollador.
 ## 🔜 En el camino
 - JavaScript  
 - Angular  
-- Buenas prácticas en desarrollo web  
 
 ---
 
