@@ -1,7 +1,7 @@
 # Hola, soy Santi 👋
 
 ✨ Ingeniero en programación 
-🌱 Aprendiendo paso a paso, pero con mucha motivación  
+🌱 Aprendiendo paso a paso.  
 💻 Actualmente trabajando con **Angular**  
 🚀 Próximo objetivo: **Proyectos Personales**
 
