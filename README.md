@@ -5,8 +5,7 @@
 💻 Actualmente trabajando con **Angular**  
 🚀 Próximo objetivo: **Proyectos Personales**
 
-Disfruto aprender cosas nuevas, crear interfaces visuales
-y mejorar cada día un poco más como desarrollador.
+Disfruto aprender cosas nuevas y crear interfaces visuales
 
 ---
 
