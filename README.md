@@ -9,7 +9,7 @@ Disfruto aprender cosas nuevas y crear interfaces visuales
 
 ---
 
-## 🧠 Lo que estoy aprendiendo
+## 🧠 Lo que estoy aprendiendo actualmente
 -TypeScript
 -Angular
 
