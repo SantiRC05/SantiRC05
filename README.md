@@ -2,7 +2,7 @@
 
 ✨ Ingeniero en programación 
 🌱 Aprendiendo paso a paso.  
-💻 Actualmente trabajando con **Angular**  
+💻 Actualmente trabajando con **Angular y CISCO**  
 🚀 Próximo objetivo: **Proyectos Personales**
 
 Disfruto aprender cosas nuevas y crear interfaces visuales
